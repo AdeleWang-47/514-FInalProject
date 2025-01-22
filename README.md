@@ -8,4 +8,4 @@
 ![display](DisplayDevice.jpg)
 
 ## Communication
-![communication](Communication.jpg)
+![communication](Commmunication.jpg)
